@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Chittoo
-- 👀 I’m interested in web developing 
-- 🌱 I’m currently learning frameworks.
+- 👋 Hi, I’m @Chitto
 
 
 <!---
